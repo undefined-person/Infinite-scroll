@@ -1,0 +1,14 @@
+.post {
+  flex-basis: 45%;
+  background-color: #fff;
+  padding: 10px;
+}
+
+.post__title {
+  font-size: 18px;
+  font-family: 'Franklin Gothic Medium';
+}
+
+.post__body {
+  color: rgb(44, 9, 139);
+}
